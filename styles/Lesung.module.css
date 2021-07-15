@@ -1,0 +1,41 @@
+.event {
+  position: relative;
+  padding-top: 40px;
+}
+
+.event h2:first-of-type {
+  margin-bottom: 1rem;
+}
+
+.event p {
+  margin: 10px 0;
+}
+
+.event h1:first-of-type {
+  margin: 2px 0;
+}
+
+.pricetag span {
+  color: steelblue;
+}
+
+.image {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.controls {
+  position: absolute;
+  right: 30px;
+  top: 0;
+}
+
+.delete {
+  margin-left: 20px;
+  color: red;
+}
+
+.back {
+  display: block;
+  margin-top: 40px;
+}
