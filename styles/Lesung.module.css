@@ -15,6 +15,19 @@
   margin: 2px 0;
 }
 
+@media (max-width: 600px) {
+  .pricetag {
+    font-size: 0.9rem;
+  }
+}
+
+@media (max-width: 390px) {
+  .pricetag {
+    font-size: 0.7rem;
+  }
+}
+
+
 .pricetag span {
   color: steelblue;
 }
